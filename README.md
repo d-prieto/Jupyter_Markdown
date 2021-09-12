@@ -23,9 +23,9 @@ Utilitzant Jupyter Notebook executa alguns càlculs senzills, a la vegada que et
 Prova de crear títols, llistes, canviar l’estil de la lletra o afegir imatges dins del Notebook.
 
 Nivell 2
-- Exercici 1
+- [Exercici 1](https://github.com/d-prieto/Jupyter_Markdown/blob/main/Jupyter%20Markdown%20nivell%202%20exercici%201.ipynb)
 
-Exporta el Notebook com a pdf i com a html.
+Exporta el Notebook com a [pdf](https://github.com/d-prieto/Jupyter_Markdown/blob/main/Jupyter%20Markdown%20nivell%202%20exercici%201.pdf) i com a [html](https://github.com/d-prieto/Jupyter_Markdown/blob/main/Jupyter%20Markdown%20nivell%202%20exercici%201.html).
 
 Nivell 3
 - Exercici 1
