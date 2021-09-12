@@ -18,7 +18,7 @@ Utilitzant Jupyter Notebook executa alguns càlculs senzills, a la vegada que et
 
 
 
-- Exercici 3
+- [Exercici 3](https://github.com/d-prieto/Jupyter_Markdown/blob/main/Jupyter%20Markdown%20exercici%203.ipynb)
 
 Prova de crear títols, llistes, canviar l’estil de la lletra o afegir imatges dins del Notebook.
 
