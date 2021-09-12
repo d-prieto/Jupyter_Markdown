@@ -12,9 +12,11 @@ Instal·la el programa Anaconda amb Python 3, i Jupyter Notebook.
 
 
 
-- Exercici 2
+- [Exercici 2](https://github.com/d-prieto/Jupyter_Markdown/blob/main/Exercici%202.ipynb)
 
 Utilitzant Jupyter Notebook executa alguns càlculs senzills, a la vegada que et familiaritzes amb el llenguatge Markdown.
+
+
 
 - Exercici 3
 
