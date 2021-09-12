@@ -6,7 +6,7 @@ This is the task:
 
 Comencem a familiaritzar-nos amb Python mitjançant l'entorn de treball "Jupyter Notebook" !!! Comencem amb uns quants exercicis bàsics
 Nivell 1
-- Exercici 1
+- [Exercici 1](https://github.com/d-prieto/Jupyter_Markdown/blob/main/Nivell_1_exercici_1.JPG)
 
 Instal·la el programa Anaconda amb Python 3, i Jupyter Notebook.
 
